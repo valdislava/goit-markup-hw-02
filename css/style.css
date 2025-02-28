@@ -18,6 +18,15 @@ button {
     cursor: pointer;
 }
 /* header */
+.button-main {
+    font-family: "Roboto", serif;
+}
+
+.button-main:hover,
+.button-main:focus {
+    color: #404bbf;
+}
+
 .logo {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
@@ -69,7 +78,7 @@ button {
 .slogan {
     font-weight: 700;
 font-size: 56px;
-line-height: 1.07143;
+line-height: 1.07;
 letter-spacing: 0.02em;
 text-align: center;
 color: #fff;
@@ -80,7 +89,6 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.04em;
 color: #fff;
-box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
 background: #4d5ae5;
 }
 .title {
@@ -98,7 +106,6 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 .img {
-    box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
 background: #fff;
 }
 .userpic {
