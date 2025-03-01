@@ -21,8 +21,7 @@ button {
 /* header */
 
 .button-main:hover,
-.button-main:focus,
-.button-main {
+.button-main:focus {
     font-family: "Roboto", sans-serif;
     color: #404bbf;
 }
