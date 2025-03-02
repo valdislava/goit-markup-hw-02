@@ -23,7 +23,7 @@ button {
 .button-main:hover,
 .button-main:focus {
     font-family: "Roboto", sans-serif;
-    color: #404bbf;
+    background-color: #404bbf;
 }
 
 .logo {
